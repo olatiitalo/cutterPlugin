@@ -165,7 +165,8 @@ function antecessorAlfabetico(lista, palavra){
         }else{
             return palavraAnterior;
         }
-    }    
+    }
+    return palavraAnterior;
 }
 
 //função usada para remover caracteres de acento
